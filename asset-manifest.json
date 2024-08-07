@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactjs/static/css/main.e1060033.css",
+    "main.js": "/reactjs/static/js/main.7c13691b.js",
+    "static/js/453.a049783f.chunk.js": "/reactjs/static/js/453.a049783f.chunk.js",
+    "static/media/fitness1.jpeg": "/reactjs/static/media/fitness1.2349c1efc79e5b125d7b.jpeg",
+    "static/media/fitness3.jpg": "/reactjs/static/media/fitness3.a3007c0d363083491872.jpg",
+    "static/media/tech1.jpg": "/reactjs/static/media/tech1.be5e3df2ec340bfe3000.jpg",
+    "static/media/fitness2.webp": "/reactjs/static/media/fitness2.36cdc9daf5250c1b1b86.webp",
+    "static/media/vegan.webp": "/reactjs/static/media/vegan.bef9e4ff192bfe9c2475.webp",
+    "static/media/tech3.jfif": "/reactjs/static/media/tech3.fb866958914da07deb19.jfif",
+    "static/media/tech2.jfif": "/reactjs/static/media/tech2.77401b7a76ce19ad7c67.jfif",
+    "static/media/vegan1.jfif": "/reactjs/static/media/vegan1.fe66ba983c8eb01b4832.jfif",
+    "static/media/vegan2.jfif": "/reactjs/static/media/vegan2.c9492c26eea31a9dca4d.jfif",
+    "index.html": "/reactjs/index.html",
+    "main.e1060033.css.map": "/reactjs/static/css/main.e1060033.css.map",
+    "main.7c13691b.js.map": "/reactjs/static/js/main.7c13691b.js.map",
+    "453.a049783f.chunk.js.map": "/reactjs/static/js/453.a049783f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1060033.css",
+    "static/js/main.7c13691b.js"
+  ]
+}
