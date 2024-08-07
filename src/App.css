@@ -1,0 +1,120 @@
+body {
+    background-color: #EBEFF5;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 40px;
+}   
+
+.navbar {
+    display: flex;
+    gap: 7rem;
+}
+
+.navbar-links {
+    list-style-type: none;
+    display: flex;
+    font-weight: 600;
+    font-size: 21px;
+    margin: 0;
+    color:  #3D3D60;
+}
+
+.banner-page {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 300px;
+}
+
+.banner-page h1 {
+    color: #ff3355;
+   
+}
+
+.banner-page p {
+    color:  #3D3D60;
+    font-size: 25px;
+}
+
+.banner-page h1>span {
+    display: block;
+}
+
+.reactions {
+    margin: 17px 0 0 4px;
+  }
+
+.search-bar {
+    display: flex;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.search-bar  input {
+    width: 70%;
+    padding: 2px;
+    color: black;
+}
+.bttn {
+    border-radius: 10px;
+    background-color: #26264c;
+    color: white;
+    border: none;
+}
+
+.wrapp {
+    background-color: #F8F8FA
+}
+
+.cards {
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.search-bar-alert {
+    width: 30%;
+    text-align: center;
+    margin-top: 10px;
+    padding: 1px;
+    margin-left: 350px;
+    
+}
+
+.profile-pic {
+    width: 100%;
+    object-fit: contain;
+    height: 300px;
+}
+
+.card {
+    background-color: #ffffff;
+}
+
+.card>h3 {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.reactions {
+    display: flex;
+    justify-content: center;
+}
+
+.reactions>p {
+    margin-left: 10px;
+}
+  
